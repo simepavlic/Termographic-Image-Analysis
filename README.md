@@ -1,2 +1,2 @@
 # Termographic-Image-Analysis
-Termographic image analysis in medicine
+Analysis of thermographic leg photos in medicine.
